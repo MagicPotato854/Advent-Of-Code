@@ -10,4 +10,4 @@ This Repo is just where I keep all of my solutions to the problems. You can look
 
 ## Go Play the Game!
 
-Go to [Advent of Code](https://https://adventofcode.com/) and play this yourself! You can do all past events and, the best part, it's free!
+Go to [Advent of Code](https://adventofcode.com/) and play this yourself! You can do all past events and, the best part, it's free!
